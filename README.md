@@ -19,15 +19,12 @@ Recently, I’ve been exploring **Artificial Intelligence and Machine Learning**
 - **Description:** NLP project that classifies product reviews into positive/negative sentiment.  
 - **Tech:** Python, Scikit-learn, NLP  
 
-### 🔹 AI Object Detection & Tracking
-- **Description:** Computer vision project using Azure Cognitive Services for detecting and tracking objects in video streams.  
+### 🔹 [Real-time-Object-Detection-Tracking](https://github.com/rahultiwari32/Real-time-Object-Detection-Tracking)
+- **Description:** Real-time Object Detection and Tracking with Azure & OpenCV.  
 - **Tech:** Python, Azure CV, OpenCV  
-- **Repo:** (Add when ready)  
+ 
 
-### 🔹 Predicting Liver Cirrhosis Patient Survival
-- **Description:** Built ML models to predict patient survival status based on clinical dataset.  
-- **Tech:** Python, Scikit-learn, Matplotlib  
-- **Repo:** (Add when ready)  
+
 
 ---
 
